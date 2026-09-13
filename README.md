@@ -1,4 +1,4 @@
-# Amazon prime video powerbi-dashboard
+# Amazon Prime Video Dashboard - Power BI
 ## 📊 Project Overview
 
 This project presents an interactive *Amazon Prime Video Dashboard* created using Microsoft Power BI.
